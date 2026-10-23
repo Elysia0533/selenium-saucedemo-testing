@@ -74,7 +74,8 @@
 - **Mô tả:** Toàn bộ 05 kịch bản kiểm thử được thực thi tự động thông qua Selenium và đều vượt qua bài kiểm tra (**5/5 PASSED**).
 - **Hình ảnh minh hoạ:**
 
-![Uploading image.png…]()
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/bb2e93f0-6bfa-4bbe-a583-c95f025a729e" />
+
 
 
 ---
